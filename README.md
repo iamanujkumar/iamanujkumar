@@ -7,7 +7,7 @@
 
 - 🌱 I’m **MERN stack Developer**
 
-- 💬 Ask me about **react node typescript javascript**
+- 💬 Ask me about **react, node, typescript, javascript**
 
 - 📫 How to reach me **anujkumar73889@gmail.com**
 

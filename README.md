@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamanujkumar&label=Profile%20views&color=0e75b6&style=flat" alt="iamanujkumar" /> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m **MERN stack Developer**
 
 - 💬 Ask me about **react**
 
